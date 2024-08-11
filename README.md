@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! eu sou o Otávio Barbosa
 
-<!--
-**OffTAVs/OffTAVs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com projetos pessoais
+- 🌱 Atualmente estou estudando Desenvolvimento de Software na Fatec
+- 🤔 Estou a procura de uma vaga de emprego 
+- 📫 Contate-me no email: otaviobarbosa11@outlook.ocm
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=OffTAVs&show_icons=true&theme=tokyonight)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ota-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
+  <img align="center" alt="Ota-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ota-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:otaviobarbosa11@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-barbosa-ferreira-45306a285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
