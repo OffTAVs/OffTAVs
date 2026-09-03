@@ -1,4 +1,4 @@
-## Olá! eu sou o Otávio Barbosa
+## Olá! eu sou o Otávio
 
 - 🔭 Hoje ralizo projetos pessoais
 - 🌱 Atualmente estou estudando Desenvolvimento de Software na Fatec
