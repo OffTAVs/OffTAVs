@@ -1,8 +1,6 @@
 ## Olá! eu sou o Otávio
 
-- 🔭 Hoje ralizo projetos pessoais
-- 🌱 Atualmente estou estudando Desenvolvimento de Software na Fatec
-- 📫 Contate-me no email: otaviobarbosa11@outlook.ocm
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Ot%C3%A1vio)](https://git.io/typing-svg)
 
 ## Conecte-se Comigo
 
